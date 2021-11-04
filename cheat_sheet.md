@@ -23,3 +23,12 @@
 * `sudo chown $user:$group $folder` change ownership of folder
 
 
+## Install stuff?!
+
+* `curl -s https://get.nextflow.io | bash` : install nextflow 
+* `wget https://dl.min.io/client/mc/release/linux-amd64/mc && chmod +x mc`: install minio client
+
+
+## Other
+
+* `tmux` is cool!
